@@ -1,14 +1,13 @@
 {
 	"name": "oceancodex/wpsp-error-handler",
-	"version": "8.0.0",
+	"version": "7.4.0",
 	"description": "WordPress Starter Plugin - Error Handler",
 	"keywords": [
 	],
 	"license": "MIT",
 	"require": {
-		"php": "^8.0",
-		"spatie/ignition": "^1.15.0",
-		"symfony/error-handler": "^v6.0.19"
+		"php": "^7.4",
+		"symfony/error-handler": "^v5.4.42"
 	},
 	"config": {
 		"sort-packages": true
