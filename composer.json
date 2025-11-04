@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"require": {
 		"php": "^8.2",
-		"spatie/ignition": "^1.15.0",
+		"spatie/ignition": "^1.15.1",
 		"symfony/error-handler": "^v7.3.4"
 	},
 	"config": {
